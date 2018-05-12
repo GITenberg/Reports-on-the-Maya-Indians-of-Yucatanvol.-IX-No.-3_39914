@@ -1,0 +1,60 @@
+_repo: Reports-on-the-Maya-Indians-of-Yucatanvol.-IX-No.-3_39914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mendez, Santiago
+    birthdate: 1796
+    deathdate: 1872
+    gutenberg_agent_id: '40297'
+    url: http://www.gutenberg.org/2009/agents/40297
+  - agent_name: García Cubas, Antonio
+    aliases:
+    - Garcia Cubas, Antonio
+    - García y Cubas, Antonio
+    - Cubas, Antonio García
+    birthdate: 1832
+    deathdate: 1912
+    gutenberg_agent_id: '40298'
+    url: http://www.gutenberg.org/2009/agents/40298
+  - agent_name: Hernández, Francisco
+    alias: Hernandez, Francisco
+    birthdate: 1517
+    deathdate: 1587
+    gutenberg_agent_id: '40300'
+    url: http://www.gutenberg.org/2009/agents/40300
+  - agent_name: Sánchez de Aguilar, Pedro
+    aliases:
+    - De Aguilar, Pedro Sánchez
+    - Sanchez de Aguilar, Pedro
+    - Aguilar, Pedro Sánchez de
+    birthdate: 1555
+    deathdate: 1648
+    gutenberg_agent_id: '40299'
+    url: http://www.gutenberg.org/2009/agents/40299
+  editor:
+    agent_name: Saville, Marshall H. (Marshall Howard)
+    alias: Saville, Marshall Howard
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '40301'
+    url: http://www.gutenberg.org/2009/agents/40301
+description: ''
+gutenberg_issued: '2012-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39914'
+  lccn: '21006651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Indian notes and monographs, Vol. IX, No. 3
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of Mexico -- Mexico -- Yucatán (State)'
+- !lcsh 'Mayas'
+title: Reports on the Maya Indians of Yucatan
+url: http://www.gutenberg.org/ebooks/39914
